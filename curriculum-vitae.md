@@ -4,7 +4,8 @@
 
 |         |                                        |
 | ------- | -------------------------------------- |
-| Name    | Sho Tsuboya                            |
+| 居住地  | 東京都                                 |
+| GitHub  | <https://github.com/git-shochann>      |
 | Twitter | [@00sht\_](https://twitter.com/00sht_) |
 
 ## 概要
