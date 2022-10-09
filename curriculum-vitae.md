@@ -43,7 +43,7 @@ Rest API | gRPC | Layered Architecture | Domain Driven Design | GitHub Actions |
 
 ### 通話サービス系スタートアップの開発 (2021 年 4 月 〜 2022 年 1 月)
 
-#### 【担当業務】RestAPI 設計、構築、開発/DB 設計、構築、運用/インフラ設計、構築、運用
+#### 担当業務 -> RestAPI 設計、構築、開発/DB 設計、構築、運用/インフラ設計、構築、運用
 
 - Rails と Node.js を使ったバックエンド開発
 - OpenAPI を使用したスキーマファーストの RestAPI 設計、開発
