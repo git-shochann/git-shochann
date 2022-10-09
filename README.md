@@ -1,4 +1,6 @@
-# 🐈...
+<h1 align="center">
+  Hello, git-shochann!
+</h1>
 
 ![BackGround Image](./goku-ultra-instinct.gif)
 
