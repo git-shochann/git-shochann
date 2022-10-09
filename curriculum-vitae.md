@@ -1,4 +1,4 @@
-# 職務経歴書
+# 職務経歴書 / Curriculum Vitae
 
 ## 基本情報
 
