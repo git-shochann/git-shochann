@@ -1,13 +1,5 @@
 # 職務経歴書 / Curriculum Vitae
 
-## 基本情報
-
-|         |                                        |
-| ------- | -------------------------------------- |
-| 居住地  | 東京都                                 |
-| GitHub  | <https://github.com/git-shochann>      |
-| Twitter | [@00sht\_](https://twitter.com/00sht_) |
-
 ## 概要
 
 - 最近は ずっと Go 言語を用いた開発をしています。
