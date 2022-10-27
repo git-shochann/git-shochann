@@ -2,7 +2,7 @@
   Hello, git-shochann!
 </h1>
 
-![BackGround Image](./goku-ultra-instinct.gif)
+<!-- ![BackGround Image](./goku-ultra-instinct.gif) -->
 
 ## 職務経歴書 / Curriculum Vitae
 
