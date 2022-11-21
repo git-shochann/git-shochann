@@ -33,7 +33,7 @@ Rest API | gRPC | Layered Architecture | Domain Driven Design | GitHub Actions |
 
 ## 主な業務経歴
 
-### 通話サービス系スタートアップの開発 (2021 年 4 月 〜 2022 年 1 月)
+### 通話サービス系スタートアップの開発 (2021 年 1 月 〜 2022 年 1 月)
 
 #### 担当業務 -> RestAPI 設計、構築、開発/DB 設計、構築、運用/インフラ設計、構築、運用
 
