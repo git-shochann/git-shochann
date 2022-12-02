@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hello, git-shochann!
-</h1>
+# 🐈 Sho Tsuboya
 
 ## 職務経歴書 / Curriculum Vitae
 
